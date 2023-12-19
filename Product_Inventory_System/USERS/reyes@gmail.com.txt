@@ -1,0 +1,7 @@
+Name: reyes
+Username: reyes2332
+Email: reyes@gmail.com
+Password: ccna
+Confirm Password: ccna
+1|pppp|543|54|Mobile & Gadgets|Site 2A|2023-12-19 12:14:58
+2|jjjjjjjjj|1000|100|Women's Apparel|Site 3B|2023-12-19 12:16:05

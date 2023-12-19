@@ -1,0 +1,5 @@
+Name: chloe
+Username: chloe2332
+Email: chloe@gmail.com
+Password: ccna
+Confirm Password: ccna

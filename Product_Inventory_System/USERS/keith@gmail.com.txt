@@ -1,0 +1,7 @@
+Name: keith
+Username: keith2332
+Email: keith@gmail.com
+Password: ccna
+Confirm Password: ccna
+1|tete|765|23|Mobile & Gadgets|Site 1A|2023-12-19 08:38:33
+2|gfd|gdfg|gdf|Women's Apparel|Site 1A|2023-12-19 08:39:57
